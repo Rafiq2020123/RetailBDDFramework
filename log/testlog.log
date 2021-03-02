@@ -1,0 +1,343 @@
+2021-02-05 07:02:52,468 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-05 07:02:57,399 - logger_File -INFO - Retail page is opened
+2021-02-05 07:02:57,411 - logger_File -INFO - Page title  is verified
+2021-02-05 07:02:58,663 - logger_File -INFO - User enterd value in the search bar
+2021-02-05 07:02:59,811 - logger_File -INFO - User clicked on the search bar
+2021-02-05 07:03:00,828 - logger_File -INFO - Iphone image is desplayed
+2021-02-05 07:03:01,664 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-06 06:47:48,269 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-06 06:47:54,473 - logger_File -INFO - Retail page is opened
+2021-02-06 06:47:54,486 - logger_File -INFO - Page title  is verified
+2021-02-06 06:47:55,210 - logger_File -INFO - User enterd value in the search bar
+2021-02-06 06:47:56,258 - logger_File -INFO - User clicked on the search bar
+2021-02-06 06:47:57,083 - logger_File -INFO - Iphone image is desplayed
+2021-02-06 06:47:57,815 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-09 06:06:02,338 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 06:06:08,858 - logger_File -INFO - Retail page is opened
+2021-02-09 06:06:08,872 - logger_File -INFO - Page title  is verified
+2021-02-09 06:06:09,722 - logger_File -INFO - User click on My Account
+2021-02-09 06:06:10,727 - logger_File -INFO - Regestring an Account Test Case   undefined
+2021-02-09 06:50:30,625 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-02-09 06:50:34,928 - logger_File -INFO - Retail page is opened
+2021-02-09 06:50:34,943 - logger_File -INFO - Page title  is verified
+2021-02-09 06:50:36,052 - logger_File -INFO - User click on My Account
+2021-02-09 06:50:36,400 - logger_File -INFO - User click on Login
+2021-02-09 06:50:39,896 - logger_File -INFO - User enter email address
+2021-02-09 06:50:39,983 - logger_File -INFO - User enter password
+2021-02-09 06:50:41,094 - logger_File -INFO - User click on Login button
+2021-02-09 06:50:45,273 - logger_File -INFO - Login to MyAccount   passed
+2021-02-09 06:50:45,277 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-09 06:50:48,974 - logger_File -INFO - Retail page is opened
+2021-02-09 06:50:48,982 - logger_File -INFO - Page title  is verified
+2021-02-09 06:50:49,827 - logger_File -INFO - User click on My Account
+2021-02-09 06:50:50,171 - logger_File -INFO - User click on Login
+2021-02-09 06:50:53,676 - logger_File -INFO - User enter email address
+2021-02-09 06:50:53,761 - logger_File -INFO - User enter password
+2021-02-09 06:50:54,911 - logger_File -INFO - User click on Login button
+2021-02-09 06:50:59,004 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-02-09 06:50:59,007 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-09 06:51:02,650 - logger_File -INFO - Retail page is opened
+2021-02-09 06:51:02,660 - logger_File -INFO - Page title  is verified
+2021-02-09 06:51:03,624 - logger_File -INFO - User click on My Account
+2021-02-09 06:51:03,988 - logger_File -INFO - User click on Login
+2021-02-09 06:51:07,466 - logger_File -INFO - User enter email address
+2021-02-09 06:51:07,566 - logger_File -INFO - User enter password
+2021-02-09 06:51:08,666 - logger_File -INFO - User click on Login button
+2021-02-09 06:51:24,063 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-02-09 06:51:48,699 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 06:51:54,998 - logger_File -INFO - Retail page is opened
+2021-02-09 06:51:55,014 - logger_File -INFO - Page title  is verified
+2021-02-09 06:51:56,140 - logger_File -INFO - User click on My Account
+2021-02-09 06:51:56,888 - logger_File -INFO - User clicked on registration option
+2021-02-09 06:51:57,835 - logger_File -INFO - Regestring an Account Test Case   failed
+2021-02-09 07:15:37,905 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:15:42,846 - logger_File -INFO - Retail page is opened
+2021-02-09 07:15:42,857 - logger_File -INFO - Page title  is verified
+2021-02-09 07:15:43,821 - logger_File -INFO - User click on My Account
+2021-02-09 07:15:44,648 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:15:45,507 - logger_File -INFO - Regestring an Account Test Case   failed
+2021-02-09 07:19:02,071 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:19:07,286 - logger_File -INFO - Retail page is opened
+2021-02-09 07:19:07,297 - logger_File -INFO - Page title  is verified
+2021-02-09 07:19:08,166 - logger_File -INFO - User click on My Account
+2021-02-09 07:19:08,886 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:19:09,535 - logger_File -INFO - User filled the information form
+2021-02-09 07:19:10,001 - logger_File -INFO - User checked the privecy and policy
+2021-02-09 07:19:13,336 - logger_File -INFO - User clicked on continue button
+2021-02-09 07:19:14,052 - logger_File -INFO - User should be registerd
+2021-02-09 07:19:15,703 - logger_File -INFO - Regestring an Account Test Case   passed
+2021-02-09 07:25:59,663 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:26:06,341 - logger_File -INFO - Retail page is opened
+2021-02-09 07:26:06,353 - logger_File -INFO - Page title  is verified
+2021-02-09 07:26:07,349 - logger_File -INFO - User click on My Account
+2021-02-09 07:26:10,663 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:26:11,349 - logger_File -INFO - User filled the information form
+2021-02-09 07:26:11,805 - logger_File -INFO - User checked the privecy and policy
+2021-02-09 07:26:12,491 - logger_File -INFO - User clicked on continue button
+2021-02-09 07:28:57,515 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:29:02,295 - logger_File -INFO - Retail page is opened
+2021-02-09 07:29:02,309 - logger_File -INFO - Page title  is verified
+2021-02-09 07:29:03,357 - logger_File -INFO - User click on My Account
+2021-02-09 07:29:04,099 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:29:04,803 - logger_File -INFO - User filled the information form
+2021-02-09 07:29:05,354 - logger_File -INFO - User checked the privecy and policy
+2021-02-09 07:29:08,036 - logger_File -INFO - User clicked on continue button
+2021-02-09 07:33:49,995 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:33:54,254 - logger_File -INFO - Retail page is opened
+2021-02-09 07:33:54,263 - logger_File -INFO - Page title  is verified
+2021-02-09 07:33:55,063 - logger_File -INFO - User click on My Account
+2021-02-09 07:33:55,745 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:33:56,313 - logger_File -INFO - User filled the information form
+2021-02-09 07:33:56,773 - logger_File -INFO - User checked the privecy and policy
+2021-02-09 07:34:00,158 - logger_File -INFO - User clicked on continue button
+2021-02-09 07:36:33,514 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-09 07:36:37,650 - logger_File -INFO - Retail page is opened
+2021-02-09 07:36:37,661 - logger_File -INFO - Page title  is verified
+2021-02-09 07:36:38,489 - logger_File -INFO - User click on My Account
+2021-02-09 07:36:39,297 - logger_File -INFO - User clicked on registration option
+2021-02-09 07:36:39,825 - logger_File -INFO - User filled the information form
+2021-02-09 07:36:40,272 - logger_File -INFO - User checked the privecy and policy
+2021-02-09 07:36:43,861 - logger_File -INFO - User clicked on continue button
+2021-02-09 07:36:44,618 - logger_File -INFO - User should be registerd
+2021-02-09 07:36:45,355 - logger_File -INFO - Regestring an Account Test Case   passed
+2021-02-10 05:26:57,404 - logger_File -INFO - Scenario Executing information from Actor Table Started 
+2021-02-10 05:27:01,502 - logger_File -INFO -  Conection is stablished between JDBC and DB
+2021-02-10 05:27:02,393 - logger_File -INFO - Executing information from Actor Table   undefined
+2021-02-10 05:29:12,018 - logger_File -INFO - Scenario Executing information from Actor Table Started 
+2021-02-10 05:29:15,805 - logger_File -INFO -  Conection is stablished between JDBC and DB
+2021-02-10 05:29:16,694 - logger_File -INFO - Executing information from Actor Table   failed
+2021-02-10 05:30:26,899 - logger_File -INFO - Scenario Executing information from Actor Table Started 
+2021-02-10 05:30:31,636 - logger_File -INFO -  Conection is stablished between JDBC and DB
+2021-02-10 05:30:34,210 - logger_File -INFO - Executing information from Actor Table   undefined
+2021-02-10 05:32:46,617 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-10 05:32:51,210 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-10 05:37:09,673 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-10 05:37:12,806 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-10 05:37:13,548 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-10 05:39:27,756 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-10 05:39:31,691 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-10 05:39:32,515 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-10 05:57:33,833 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-10 05:57:37,269 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-10 05:57:38,018 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-10 06:04:27,861 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-10 06:04:32,488 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-10 06:04:32,526 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-10 06:04:32,574 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-10 06:04:32,575 - logger_File -INFO - DataBase connection has been closed
+2021-02-10 06:04:33,413 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-13 06:18:57,573 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-13 06:19:01,812 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-13 06:19:01,885 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-13 06:19:01,964 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-13 06:19:01,966 - logger_File -INFO - DataBase connection has been closed
+2021-02-13 06:19:02,711 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-25 09:53:35,602 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-25 09:53:43,648 - logger_File -INFO - Retail page is opened
+2021-02-25 09:53:43,675 - logger_File -INFO - Page title  is verified
+2021-02-25 09:53:44,450 - logger_File -INFO - User enterd value in the search bar
+2021-02-25 09:53:45,552 - logger_File -INFO - User clicked on the search bar
+2021-02-25 09:53:46,475 - logger_File -INFO - Iphone image is desplayed
+2021-02-25 09:53:47,682 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-25 09:53:47,688 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-25 09:53:51,222 - logger_File -INFO - Retail page is opened
+2021-02-25 09:53:51,229 - logger_File -INFO - Page title  is verified
+2021-02-25 09:53:51,896 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-25 09:53:54,659 - logger_File -INFO - Retail page is opened
+2021-02-25 09:53:54,722 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-25 09:53:57,558 - logger_File -INFO - Retail page is opened
+2021-02-25 09:53:57,595 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-25 09:54:29,911 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-25 09:54:35,306 - logger_File -INFO - Retail page is opened
+2021-02-25 09:54:35,322 - logger_File -INFO - Page title  is verified
+2021-02-25 09:54:36,490 - logger_File -INFO - User enterd value in the search bar
+2021-02-25 09:54:37,611 - logger_File -INFO - User clicked on the search bar
+2021-02-25 09:54:38,475 - logger_File -INFO - Iphone image is desplayed
+2021-02-25 09:54:40,560 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-25 09:59:42,183 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-25 09:59:46,961 - logger_File -INFO - Retail page is opened
+2021-02-25 09:59:46,977 - logger_File -INFO - Page title  is verified
+2021-02-25 09:59:47,953 - logger_File -INFO - User enterd value in the search bar
+2021-02-25 09:59:48,959 - logger_File -INFO - User clicked on the search bar
+2021-02-25 09:59:49,844 - logger_File -INFO - Iphone image is desplayed
+2021-02-25 09:59:50,589 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-25 10:04:20,044 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-25 10:04:24,649 - logger_File -INFO - Retail page is opened
+2021-02-25 10:04:24,659 - logger_File -INFO - Page title  is verified
+2021-02-25 10:04:25,707 - logger_File -INFO - User click on My Account
+2021-02-25 10:04:26,771 - logger_File -INFO - User clicked on registration option
+2021-02-25 10:04:27,413 - logger_File -INFO - User filled the information form
+2021-02-25 10:04:27,889 - logger_File -INFO - User checked the privecy and policy
+2021-02-25 10:04:30,503 - logger_File -INFO - User clicked on continue button
+2021-02-25 10:05:09,475 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-25 10:05:14,061 - logger_File -INFO - Retail page is opened
+2021-02-25 10:05:14,074 - logger_File -INFO - Page title  is verified
+2021-02-25 10:05:14,975 - logger_File -INFO - User click on My Account
+2021-02-25 10:05:15,825 - logger_File -INFO - User clicked on registration option
+2021-02-25 10:05:16,504 - logger_File -INFO - User filled the information form
+2021-02-25 10:05:17,010 - logger_File -INFO - User checked the privecy and policy
+2021-02-25 10:05:20,101 - logger_File -INFO - User clicked on continue button
+2021-02-25 10:05:20,938 - logger_File -INFO - User should be registerd
+2021-02-25 10:05:22,005 - logger_File -INFO - Regestring an Account Test Case   passed
+2021-02-26 06:28:46,599 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-26 06:28:51,412 - logger_File -INFO - Retail page is opened
+2021-02-26 06:28:51,426 - logger_File -INFO - Page title  is verified
+2021-02-26 06:28:52,479 - logger_File -INFO - User click on My Account
+2021-02-26 06:28:53,219 - logger_File -INFO - User clicked on registration option
+2021-02-26 06:28:53,951 - logger_File -INFO - User filled the information form
+2021-02-26 06:28:54,434 - logger_File -INFO - User checked the privecy and policy
+2021-02-26 06:28:57,331 - logger_File -INFO - User clicked on continue button
+2021-02-26 06:43:57,561 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 06:44:02,468 - logger_File -INFO - Retail page is opened
+2021-02-26 06:44:02,482 - logger_File -INFO - Page title  is verified
+2021-02-26 06:44:03,820 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 06:44:04,982 - logger_File -INFO - User clicked on the search bar
+2021-02-26 06:44:06,334 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 06:44:06,345 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 06:44:10,184 - logger_File -INFO - Retail page is opened
+2021-02-26 06:44:10,194 - logger_File -INFO - Page title  is verified
+2021-02-26 06:44:11,212 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 06:44:12,200 - logger_File -INFO - User clicked on the search bar
+2021-02-26 06:44:13,434 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 06:44:13,438 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 06:44:17,371 - logger_File -INFO - Retail page is opened
+2021-02-26 06:44:17,379 - logger_File -INFO - Page title  is verified
+2021-02-26 06:44:18,620 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 06:44:19,664 - logger_File -INFO - User clicked on the search bar
+2021-02-26 06:44:20,876 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 07:24:59,407 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:25:06,053 - logger_File -INFO - Retail page is opened
+2021-02-26 07:25:06,066 - logger_File -INFO - Page title  is verified
+2021-02-26 07:25:07,241 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:25:10,639 - logger_File -INFO - User clicked on the search bar
+2021-02-26 07:25:11,853 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 07:25:11,890 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:25:15,807 - logger_File -INFO - Retail page is opened
+2021-02-26 07:25:15,840 - logger_File -INFO - Page title  is verified
+2021-02-26 07:25:16,902 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:25:17,900 - logger_File -INFO - User clicked on the search bar
+2021-02-26 07:25:19,155 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 07:25:19,163 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:25:22,897 - logger_File -INFO - Retail page is opened
+2021-02-26 07:25:22,907 - logger_File -INFO - Page title  is verified
+2021-02-26 07:25:23,881 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:25:24,964 - logger_File -INFO - User clicked on the search bar
+2021-02-26 07:26:20,935 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:26:26,051 - logger_File -INFO - Retail page is opened
+2021-02-26 07:26:26,063 - logger_File -INFO - Page title  is verified
+2021-02-26 07:26:27,175 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:26:28,386 - logger_File -INFO - User clicked on the search bar
+2021-02-26 07:26:29,880 - logger_File -INFO - Test Search Functionaloty with multiple set of data   passed
+2021-02-26 07:26:29,889 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:26:33,837 - logger_File -INFO - Retail page is opened
+2021-02-26 07:26:33,853 - logger_File -INFO - Page title  is verified
+2021-02-26 07:26:35,045 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:26:39,869 - logger_File -INFO - Scenario Test Search Functionaloty with multiple set of data Started 
+2021-02-26 07:26:44,302 - logger_File -INFO - Retail page is opened
+2021-02-26 07:26:44,314 - logger_File -INFO - Page title  is verified
+2021-02-26 07:26:45,535 - logger_File -INFO - User enterd value in the search bar
+2021-02-26 07:26:46,645 - logger_File -INFO - User clicked on the search bar
+2021-02-26 09:09:20,249 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 09:09:23,898 - logger_File -INFO - Cheking User Login functionality   undefined
+2021-02-26 10:09:27,305 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:09:32,292 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:28:57,564 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:29:02,783 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:30:45,972 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:30:50,945 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:30:51,070 - logger_File -INFO - User enters userName
+2021-02-26 10:30:51,121 - logger_File -INFO - User enters password
+2021-02-26 10:30:51,933 - logger_File -INFO - User clicks on login button
+2021-02-26 10:30:55,205 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-26 10:33:56,284 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:34:00,539 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:34:00,724 - logger_File -INFO - User enters userName
+2021-02-26 10:34:00,781 - logger_File -INFO - User enters password
+2021-02-26 10:34:01,566 - logger_File -INFO - User clicks on login button
+2021-02-26 10:34:04,761 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-26 10:36:22,789 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:36:28,982 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:36:31,239 - logger_File -INFO - User enters userName
+2021-02-26 10:36:33,291 - logger_File -INFO - User enters password
+2021-02-26 10:36:35,937 - logger_File -INFO - User clicks on login button
+2021-02-26 10:54:11,591 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:54:15,705 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:54:17,809 - logger_File -INFO - User enters userName
+2021-02-26 10:54:19,862 - logger_File -INFO - User enters password
+2021-02-26 10:54:21,976 - logger_File -INFO - User clicks on login button
+2021-02-26 10:54:25,117 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-26 10:58:17,165 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 10:58:21,425 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 10:58:23,541 - logger_File -INFO - User enters userName
+2021-02-26 10:58:25,597 - logger_File -INFO - User enters password
+2021-02-26 10:58:27,647 - logger_File -INFO - User clicks on login button
+2021-02-26 10:58:30,855 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-26 11:05:01,265 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 11:05:05,437 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 11:05:07,693 - logger_File -INFO - User enters userName
+2021-02-26 11:05:09,860 - logger_File -INFO - User enters password
+2021-02-26 11:05:12,737 - logger_File -INFO - User clicks on login button
+2021-02-26 11:05:15,920 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-26 11:06:12,486 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 11:06:16,824 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 11:06:19,043 - logger_File -INFO - User enters userName
+2021-02-26 11:06:21,135 - logger_File -INFO - User enters password
+2021-02-26 11:06:24,006 - logger_File -INFO - User clicks on login button
+2021-02-26 11:07:37,695 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 11:07:41,664 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 11:07:43,925 - logger_File -INFO - User enters userName
+2021-02-26 11:07:46,145 - logger_File -INFO - User enters password
+2021-02-26 11:07:51,492 - logger_File -INFO - User clicks on login button
+2021-02-26 11:07:53,897 - logger_File -INFO - User should be logged in
+2021-02-26 11:07:56,996 - logger_File -INFO - Cheking User Login functionality   passed
+2021-02-26 11:09:04,174 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-26 11:09:08,609 - logger_File -INFO - NoCommerce page is opened
+2021-02-26 11:09:10,870 - logger_File -INFO - User enters userName
+2021-02-26 11:09:12,960 - logger_File -INFO - User enters password
+2021-02-26 11:09:17,953 - logger_File -INFO - User clicks on login button
+2021-02-26 11:09:20,319 - logger_File -INFO - User should be logged in
+2021-02-26 11:09:24,289 - logger_File -INFO - Cheking User Login functionality   passed
+2021-02-27 08:26:39,697 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-27 08:27:08,598 - logger_File -INFO - NoCommerce page is opened
+2021-02-27 08:27:10,815 - logger_File -INFO - User enters userName
+2021-02-27 08:27:12,894 - logger_File -INFO - User enters password
+2021-02-27 08:27:28,157 - logger_File -INFO - User clicks on login button
+2021-02-27 08:27:32,014 - logger_File -INFO - Cheking User Login functionality   failed
+2021-02-27 08:28:23,923 - logger_File -INFO - Scenario Cheking User Login functionality Started 
+2021-02-27 08:28:29,488 - logger_File -INFO - NoCommerce page is opened
+2021-02-27 08:28:31,761 - logger_File -INFO - User enters userName
+2021-02-27 08:28:33,852 - logger_File -INFO - User enters password
+2021-02-27 08:28:38,744 - logger_File -INFO - User clicks on login button
+2021-02-27 08:28:41,125 - logger_File -INFO - User should be logged in
+2021-02-27 08:28:44,422 - logger_File -INFO - Cheking User Login functionality   passed
+2021-02-27 08:50:42,615 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-27 08:50:47,593 - logger_File -INFO - Retail page is opened
+2021-02-27 08:50:48,366 - logger_File -INFO - Search functionality Test Case   failed
+2021-02-27 08:53:23,755 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-27 08:53:27,876 - logger_File -INFO - Retail page is opened
+2021-02-27 08:53:28,692 - logger_File -INFO - Search functionality Test Case   failed
+2021-02-27 08:56:56,327 - logger_File -INFO - Scenario Search functionality Test Case Started 
+2021-02-27 08:57:01,614 - logger_File -INFO - Retail page is opened
+2021-02-27 08:57:01,632 - logger_File -INFO - Page title  is verified
+2021-02-27 08:57:02,927 - logger_File -INFO - User enterd value in the search bar
+2021-02-27 08:57:03,914 - logger_File -INFO - User clicked on the search bar
+2021-02-27 08:57:04,883 - logger_File -INFO - Iphone image is desplayed
+2021-02-27 08:57:05,701 - logger_File -INFO - Search functionality Test Case   passed
+2021-02-27 10:10:38,145 - logger_File -INFO - Scenario Regestring an Account Test Case Started 
+2021-02-27 10:10:43,074 - logger_File -INFO - Retail page is opened
+2021-02-27 10:10:43,087 - logger_File -INFO - Page title  is verified
+2021-02-27 10:10:44,127 - logger_File -INFO - User click on My Account
+2021-02-27 10:10:44,867 - logger_File -INFO - User clicked on registration option
+2021-02-27 10:10:45,598 - logger_File -INFO - User filled the information form
+2021-02-27 10:10:46,083 - logger_File -INFO - User checked the privecy and policy
+2021-02-27 10:10:49,429 - logger_File -INFO - User clicked on continue button
+2021-02-27 10:10:50,263 - logger_File -INFO - User should be registerd
+2021-02-27 10:10:51,039 - logger_File -INFO - Regestring an Account Test Case   passed
+2021-02-28 11:09:59,017 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-28 11:10:02,468 - logger_File -INFO - Execute all information from Actor Table   undefined
+2021-02-28 11:10:48,546 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-28 11:10:51,276 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-28 11:10:51,355 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-28 11:10:51,396 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-28 11:10:51,397 - logger_File -INFO - DataBase connection has been closed
+2021-02-28 11:10:52,050 - logger_File -INFO - Execute all information from Actor Table   passed
